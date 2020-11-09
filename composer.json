@@ -1,12 +1,12 @@
 {
-  "name": "k1low/property-enum",
+  "name": "jeffersonsimaogoncalves/property-enum",
   "description": "Property based enum plugin for CakePHP 3",
   "type": "cakephp-plugin",
   "keywords": [
     "cakephp",
     "enum"
   ],
-  "homepage": "https://github.com/k1low/property-enum",
+  "homepage": "https://github.com/jeffersonsimaogoncalves/property-enum",
   "license": "MIT",
   "require": {
     "php": "^5.4.16|^7.2",
